@@ -10,7 +10,7 @@ if len(sys.argv) < 2:
 # Get the access token from the first command line argument
 access_token = sys.argv[1]
 
-# Replace this variable with your actual page ID
+# Replace this variable with your actual section ID
 section_id = 'x-xxxxxxxx-yyyy-zzzz-zzzz-yyyyyyyyyyyy'
 html_content = """
 <!DOCTYPE html>
