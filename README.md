@@ -5,7 +5,8 @@ This software will try to launch an action using the GraphQL token provided by t
 It will try to add a page in OneNote using the attachments in the assets/ folder (not included, can use any file)
 
 ## Usage
-Run token.tcl (need tcltk and python on your system)
+Run token.tcl (need TclTk and Python on your system)
+Get your token from https://developer.microsoft.com/en-us/graph/graph-explorer
 
 ## Configuration
 In the attached python script, one has to actually specify the OneNote section to which the page will be made. Use GraphQL API to find out ;-)
